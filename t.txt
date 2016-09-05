@@ -1,0 +1,20 @@
+#include<math.h>
+#include<string>
+
+program test1;
+var
+dollar:money; 
+t,s,st:string; 
+
+begin 
+something:="hello world";
+while (test == test) do read(string);
+repeat do read_from_device[a:test];until (test==test) end do;
+device_close[a:test.txt];
+device_open[a:test.txt];
+for a := 125 to 0 do read (string); end do;
+if (test==test) then begin read(test); end; else begin read(test); end;
+println(test);
+a:=abs(value);
+
+end

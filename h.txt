@@ -1,0 +1,32 @@
+import java.text.*;
+import javax.swing.*;
+import java.util.Scanner; //comments are not passed
+program myfirstprogram;
+//variables
+var
+	e,gee:float;	//float type
+	bread,arm,leg:money;	//currency
+	a,b,ab:string;	//string variables
+	c,d,cd:int;	//integer variables
+//end variables
+//Body
+begin
+	a:="almost";
+	b:="finished";
+	ab:=a+b;	//concat
+	c:=543;
+	d:=12,345;
+	leg:=$12,123.05;
+	cd:=c+d;	//add uintegers
+	e:=444,444.13;
+	gee:=c+e;	//add singed integers and reals
+	open[A:file.text];
+	read(textfile);
+	write(textfile);
+	close[A:file];
+	for c:=c to d do
+		read(a,b,c);
+		write(3+4/8);
+	end do;
+	return 0;
+end.	//end body
