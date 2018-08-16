@@ -10,8 +10,6 @@ public class Main {
      */
     public static void main(String[] args) {
     	FinalParser_v10 Parser = new FinalParser_v10("", 0, 0);
-    	Parser.read_characters("t.txt");
-    	
+    	Parser.read_characters("t.txt");	
     }
-
 }
