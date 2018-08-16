@@ -1,12 +1,2 @@
-bin/EnParser.class
-bin/FinalParser_v1.class
-bin/FinalParser_v10.class
-bin/FinalParser_v2.class
-bin/FinalParser_v3.class
-bin/FinalParser_v4.class
-bin/FinalParser_v5.class
-bin/FinalParser_v6.class
-bin/FinalParser_v7.class
-bin/FinalParser_v8.class
-bin/FinalParser_v9.class
+bin
 old src
